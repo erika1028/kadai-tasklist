@@ -91,7 +91,7 @@ class TasksController extends Controller
      */
     public function update(Request $request, $id)
     {
-        $task = Message::find($id);
+        $task = task::find($id);
         $task ->content = $request->content;
         $task ->save();
 
