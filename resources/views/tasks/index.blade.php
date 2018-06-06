@@ -1,15 +1,15 @@
 @extends('layouts.app')
 
 @section('content')
- <h1>タスクリスト</h1>
+ <h1>Tasklists</h1>
 
      @if (count($tasks) > 0)
         <table class="table table-striped">
             <thead>
                 <tr>
                     <th>id</th>
-                    <th>ステータス</th>
-                    <th>タスク</th>
+                    <th>Status</th>
+                    <th>Task</th>
                 </tr>
             </thead>
             <tbody>
@@ -23,6 +23,6 @@
             </tbody>
         </table>
     @endif
-    {!! link_to_route('tasks.create', '新規タスクの投稿', null, ['class' => 'btn btn-primary']) !!}
+    {!! link_to_route('tasks.create', 'Add New Task', null, ['class' => 'btn btn-primary']) !!}
      
 @endsection
