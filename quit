@@ -1,0 +1,83 @@
+[33mcommit 5e2c8c9179be33378d688f9f24203b9c3c7ed753[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: erika.tokumoto <>
+Date:   Tue Jun 5 04:46:12 2018 +0000
+
+    user pages
+
+[33mcommit d7ad8f8d40623450870ddd8bbfc09c821685dcce[m
+Author: erika.tokumoto <>
+Date:   Tue Jun 5 04:15:18 2018 +0000
+
+    user login
+
+[33mcommit 08f18a03d8ff8f4183565b74379f199a76d86719[m
+Author: erika.tokumoto <>
+Date:   Tue Jun 5 04:04:49 2018 +0000
+
+    user registration
+
+[33mcommit 71ad66038bbaa73085681c966cc61f0ed3730426[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: erika.tokumoto <>
+Date:   Fri Jun 1 03:41:26 2018 +0000
+
+    fix error
+
+[33mcommit c77cba5fc7ff24cdbf169fd0762d5a1098dc6725[m
+Author: erika.tokumoto <>
+Date:   Fri Jun 1 03:28:15 2018 +0000
+
+    change to errorlog
+
+[33mcommit bddb1d6b26a8a0bd1e831f237057bf199dd0ac79[m[33m ([m[1;31mheroku/master[m[33m)[m
+Author: erika.tokumoto <>
+Date:   Fri Jun 1 03:10:08 2018 +0000
+
+    Procfile
+
+[33mcommit 2254b12dc569d1db1e90b77f1c716ee2bf2371e6[m
+Author: erika.tokumoto <>
+Date:   Wed May 30 06:58:21 2018 +0000
+
+    bootstrap design
+
+[33mcommit 4945113daa995049e63336cdb68121078ed51085[m
+Author: erika.tokumoto <>
+Date:   Tue May 29 05:20:45 2018 +0000
+
+    add column
+
+[33mcommit 4185e15950fa46b0229da08c95ccef331adbedec[m
+Author: erika.tokumoto <>
+Date:   Tue May 29 05:10:22 2018 +0000
+
+    validation
+
+[33mcommit d4647e23ad1f6ba02f9a6c2edd54115134ea21cc[m
+Author: erika.tokumoto <>
+Date:   Mon May 28 06:33:22 2018 +0000
+
+    fixed error
+
+[33mcommit 374a4f784f0314aa49678d55df82e19d693ea3d3[m
+Author: erika.tokumoto <>
+Date:   Mon May 28 06:25:44 2018 +0000
+
+    CRUD tasks
+
+[33mcommit b0dcc35820e7ae1f9260bf8d1e87af799dee69dc[m
+Author: erika.tokumoto <>
+Date:   Mon May 28 05:24:20 2018 +0000
+
+    make blade php file
+
+[33mcommit 5d25f216dfe8a758be95abd8a7d44dd17e0eb617[m
+Author: erika.tokumoto <>
+Date:   Mon May 28 04:52:54 2018 +0000
+
+    set timezone
+
+[33mcommit be40c834332b2ecbdeaee4aa07cdf4cbe1fe4aec[m
+Author: erika.tokumoto <>
+Date:   Mon May 28 04:42:14 2018 +0000
+
+    init Laravel Project
