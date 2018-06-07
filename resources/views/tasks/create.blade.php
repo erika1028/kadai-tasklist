@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-
+@if (Auth::user()->id == $task->user_id)
 <h1>New Task</h1>
    {!! Form::model($task, ['route' => 'tasks.store']) !!}
              <div class="row">
@@ -20,4 +20,7 @@
                 {!! Form::submit('POST', ['class' => 'btn btn-primary']) !!}
         
             {!! Form::close() !!}
+ @else
+        {{ print('<h2 class="alert alert-danger"><span class="glyphicon glyphicon-ban-circle" aria-hidden="true"></span>You are not authorized for that action!</h2>')}}
+  @endif
 @endsection
